@@ -1,0 +1,2 @@
+# SqlServerTransact-SqlToolkit
+Stored procedures to speed up Transact-Sql development by providing column lists and for sql statements and other code snippets directly in the query window. Names of procedures are short; for example "c {table name}" generates a comma-separated list of columns, one per line, that can be used in an INSERT statement. "ct" provides the same list with column definitions.
